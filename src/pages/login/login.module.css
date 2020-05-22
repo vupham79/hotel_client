@@ -1,0 +1,12 @@
+.login_button {
+  background: #121212 !important;
+  font-family: "Roboto", sans-serif !important;
+  color: white !important;
+  padding: 1rem;
+}
+
+.facebook_icon {
+  font-size: 4vh !important;
+  color: white !important;
+  margin-right: 2vh;
+}
